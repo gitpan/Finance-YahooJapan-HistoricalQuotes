@@ -1,0 +1,9 @@
+HistoricalQuotes.pm
+
+[Installation]
+Simply place HistoricalQuotes.pm at:
+/(YOUR PERL MODULES DIRECTORY)/Finance/YahooJapan/
+
+[For more informations]
+(After your installation) See POD by typing:
+perldoc Finance::YahooJapan::HistoricalQuotes
